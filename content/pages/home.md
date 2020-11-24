@@ -9,22 +9,21 @@ meta:
   title: The Ultimate Gatsby Starter
 ---
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis scelerisque ante, vel ultrices ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet leo a vulputate imperdiet. Duis enim orci, bibendum nec diam sed, dignissim maximus lectus. Quisque malesuada risus at justo gravida, a vehicula nisl tincidunt. Ut urna nunc, faucibus blandit ante ac, laoreet bibendum augue. Phasellus porta pellentesque fringilla. Curabitur scelerisque vel justo eget mollis. Proin pretium nunc vitae vestibulum consequat. Phasellus non tortor erat. Nunc eu lobortis quam, eget iaculis tortor
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Proin congue nisi ut ligula mollis auctor. Donec quis dapibus turpis, id faucibus nulla. Sed quis sodales libero. Donec posuere turpis vitae arcu commodo molestie. Curabitur blandit, turpis quis vestibulum vestibulum, arcu nibh sodales nisi, eget luctus velit nulla convallis nulla.
 
-# Features
+# Característica
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+- **[Gatsby](https://gatsbyjs.org)** generador de sitios estáticos
+- **[Netlify CMS](https://github.com/netlify/netlify-cms)** para le gestión de contenido
+- Menu y formularios dinámico
+- **[Mailchimp](http://mailchimp.com)** y **[Uploadcare](https://uploadcare.com)** 
+- responsive
 
-## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+## Para más información
+
+Revisar [Netlify CMS Docs](https://www.netlifycms.org/docs/) y [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
