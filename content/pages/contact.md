@@ -18,7 +18,7 @@ meta:
 
 # Example contact form
 
-This form is setup to use Netlify's form handling:
+test asd
 
 - the form action is set to the current absolute url: `action: '/contact/'`
 - a name attribute is sent with the form's data `'form-name': 'Contact'`
