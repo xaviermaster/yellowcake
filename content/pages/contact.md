@@ -4,7 +4,7 @@ slug: contact
 title: Página de Contacto
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
 subtitle: Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit.
-address: 'Calle 10 de Agosto y 30 de Septiembre'
+address: 'Calle 10 de Agosto y 30 de Septiembre, Vía Portoviejo, Sta- Ana'
 phone: +593 987557389
 email: xavier.velez3132@gmail.com
 locations:
