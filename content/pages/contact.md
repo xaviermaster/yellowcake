@@ -1,27 +1,27 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Página de Contacto
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+subtitle: Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit.
+address: 'Calle 10 de Agosto y 30 de Septiembre'
+phone: +593 987557389
+email: xavier.velez3132@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
+  - lat: '-1.1102084'
+    lng: '-80.4145011'
     mapLink: ''
 meta:
   description: This is a meta description.
   title: Contact Page
 ---
 
-# Example contact form
+# Ejemplo de un formulario de contacto
 
-This form is setup to use Netlify's form handling:
+Este formulario está configurado para utilizar el manejo de formularios de Netlify:
 
-- Pruebasss: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
+- Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit. Quisque aliquet dui quis nunc.
+- Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit. Quisque aliquet dui quis nunc.
+- Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit. Quisque aliquet dui quis nunc.
 
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+Mauris in dignissim massa. Phasellus et tristique odio, sed lobortis elit. Quisque aliquet dui quis nunc.

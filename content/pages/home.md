@@ -26,4 +26,4 @@ Proin congue nisi ut ligula mollis auctor. Donec quis dapibus turpis, id faucibu
 
 Revisar [Netlify CMS Docs](https://www.netlifycms.org/docs/) y [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+

@@ -8,37 +8,35 @@ meta:
   title: test meta title
 ---
 
-## This is the DefaultPage template
+## Está es una página por defecto
 
-Paragraphs are separated by a blank line.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis scelerisque ante, vel ultrices ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet leo a vulputate imperdiet. Duis enim orci, bibendum nec diam sed, dignissim maximus lectus. Quisque malesuada risus at justo gravida, a vehicula nisl tincidunt. Ut urna nunc, faucibus blandit ante ac, laoreet bibendum augue. Phasellus porta pellentesque fringilla.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+### Listas sin ordernar:
 
-### Unordered lists:
+- Manzanas
+- Peras
+- Perro
 
-- this one
-- that one
-- the other one
+### Listas ordenadas:
 
-### Ordered lists:
+1.  Primero
+1.  Segundo
+1.  Tercero
 
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
+> Citas
 >
-> They can span multiple paragraphs,
-> if you like.
+> Lorem ipsum dolor sit amet,
+> bibendum nec diam sed, dignissim maximus lectus. Quisque malesuada risus at justo gravida, a vehicula nisl tincidunt. Ut urna nunc.
 
-# Heading 1
+# H1 1
 
-## Heading 2
+## H2
 
-### Heading 3
+### H3
 
-#### Heading 4
+#### H4
 
-##### Heading 5
+##### H5
 
-###### Heading 6
+###### H6
