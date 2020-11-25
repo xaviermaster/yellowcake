@@ -77,7 +77,7 @@ class Form extends Component {
       })
       .then(
         this.resetForm({
-          alert: 'Thanks for your enquiry, we will get back to you soon.'
+          alert: 'Gracias por su consulta, nos comunicaremos con usted pronto.'
         })
       )
       .catch(err => {
@@ -85,7 +85,7 @@ class Form extends Component {
         this.setState({
           disabled: false,
           alert:
-            '❗️ There is a problem, your message has not been sent, please try contacting us via email'
+            '❗️ Hay un problema, su mensaje no ha sido enviado, intente contactarnos por correo electrónico'
         })
       })
   }
@@ -130,7 +130,7 @@ class Form extends Component {
             value={this.state.email}
             onChange={this.handleChange}
             type='email'
-            placeholder='Your Email'
+            placeholder='Tu correo'
             name='email'
             required
             disabled={this.state.disabled ? 'disabled' : ''}
@@ -142,7 +142,7 @@ class Form extends Component {
             className='Form--Input Form--Textarea'
             value={this.state.message}
             onChange={this.handleChange}
-            placeholder='Message'
+            placeholder='Mensaje'
             name='message'
             rows='10'
             required

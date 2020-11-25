@@ -40,11 +40,11 @@ export default ({
         required
       >
         <option disabled hidden>
-          Type of Enquiry
+          Tipo de inquietud
         </option>
-        <option>Need to know more</option>
-        <option>Found a bug</option>
-        <option>Want to say hello</option>
+        <option>Necesito conocer más</option>
+        <option>He encontrado un bug</option>
+        <option>Solo quiero decir hola</option>
       </select>
     </label>
     <label className='Form--Label'>
